@@ -1,1 +1,3 @@
-"# Calculadora-de-Gastos-Estudantis-UNIDESC" 
+ATIVIDADE DE REAJUSTE SALARIAL EM JAVA.
+
+Materia de Programação Orientada a Objetos.
